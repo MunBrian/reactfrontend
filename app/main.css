@@ -3,7 +3,7 @@ body {
 }
 
 .header-bar {
-  background-color: #292929;
+  background-color: #1f618d;
 }
 
 .container--narrow {
@@ -67,14 +67,13 @@ body {
 }
 
 .input-dark {
-  background-color: #444;
   border-color: transparent;
   color: #ffffff;
 }
 
 .input-dark:focus {
   color: #ffffff;
-  background-color: #555;
+  background-color: #fff;
   border-color: #80bdff;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
