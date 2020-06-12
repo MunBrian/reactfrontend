@@ -72,7 +72,7 @@ body {
 }
 
 .input-dark:focus {
-  color: #ffffff;
+  color: #333;
   background-color: #fff;
   border-color: #80bdff;
   outline: 0;
