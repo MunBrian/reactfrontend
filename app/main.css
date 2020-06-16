@@ -20,6 +20,9 @@ body {
   position: relative;
   top: 3px;
 }
+.btn-signIn {
+  background-color: #1abc9c;
+}
 
 .chat-count-badge {
   text-align: center;
@@ -68,7 +71,7 @@ body {
 
 .input-dark {
   border-color: transparent;
-  color: #ffffff;
+  color: #333;
 }
 
 .input-dark:focus {
@@ -92,6 +95,11 @@ body {
   color: #888;
 }
 
+.display-3 {
+  font-size: 20px;
+  font-weight: 20px;
+}
+
 @media (min-width: 768px) {
   .input-dark {
     width: auto;
@@ -99,18 +107,19 @@ body {
 }
 
 .display-3 {
-  font-size: 4.2rem;
+  font-size: 20px;
 }
 
 @media (max-width: 1199px) {
   .display-3 {
-    font-size: 3.4rem;
+    font-size: 20px;
+    font-weight: 30px;
   }
 }
 
 @media (max-width: 768px) {
   .display-3 {
-    font-size: 2.5rem;
+    font-size: 30px;
   }
 }
 

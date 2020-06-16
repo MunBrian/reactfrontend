@@ -226,8 +226,8 @@ function HomeGuest() {
                 <div className="alert alert-danger small liveValidateMessage">{state.password.message}</div>
               </CSSTransition>
             </div>
-            <button type="submit" className="py-3 mt-4 btn btn-lg btn-success btn-block">
-              Sign up for ComplexApp
+            <button type="submit" className="py-3 mt-4 btn btn-success btn-block">
+              Sign up
             </button>
           </form>
         </div>
